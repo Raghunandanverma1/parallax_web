@@ -1,0 +1,86 @@
+html,body{
+    height: 100%;
+    font-family: "Lato","sans-serif";
+    font-weight: 400;
+    font-size: 40px;
+    color: #666;
+}
+
+.pimg1{
+    background-image: url(images/developer\ \(1\)\ copy.png);
+    min-height: 100%;
+}
+.pimg2{
+    background-image: url(images/download\ \(2\).jpeg);
+    min-height:  600px;
+}
+.pimg3{
+    background-image: url(images/web.png);
+    min-height: 600px;
+}
+.pimg1,.pimg2,.pimg3{
+    position: relative;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    background-attachment:fixed;
+}
+.ptext{
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+}
+.textbg{
+    background-color: black;
+    color: rgba(255, 255, 255, 0.795);
+    text-transform: uppercase;
+
+}
+
+.section_one{
+      text-align: center;
+      color: black;
+     
+}
+.section_a{
+    font-size: 60px;
+    margin-bottom: 0%;
+}
+.section_b{
+   font-size: 28px;
+   margin: 10 20px;
+}
+
+.section_two{
+    text-align: center;
+      color:white;
+      background: black;
+      margin-top: 0%;
+     
+}
+.seca{
+    text-align: center;
+      color:white;
+}
+.secb{
+      font-size: 28px;
+   margin: 10 20px;
+}
+.sec_three{
+    text-align: center;
+      color:black;
+      background: white;
+      margin-top: 0%;
+}
+.sect_a{
+    text-align: center;
+      color:black;
+}
+.sect_b{
+    
+    font-size: 28px;
+   margin: 10 20px;
+}
